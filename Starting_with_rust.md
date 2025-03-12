@@ -52,7 +52,7 @@ cargo fix --allow-dirty --allow-staged
 cargo build --release
 ```
 
-## A simply docker file
+## A simple docker file
 
 ```Dockerfile
 
