@@ -4,9 +4,7 @@ This repository contains the materials for the MDPI Basel meetup on 18th of Marc
 
 ### Topic
 
-Talks about Rust 
-
-A small - CLI Applications in Rust
+Talks about Rust
 
 ### Agenda
 
