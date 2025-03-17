@@ -10,5 +10,5 @@ Talks about Rust
 
 1. Introduction to [MDPI](https://www.mdpi.com/) by Dietrich Rordorf
 2. Talk by [Michael Kefeder](https://michael.kefeder.at/) - Anecdotal evidence that Rust is not hard to learn or slowing down development
-3. Break - Pizza time 🍕 (Sponserd by (Endress Hauser)[https://www.ch.endress.com/de])
+3. Break - Pizza time 🍕 (Sponserd by [Endress Hauser](https://www.ch.endress.com/de)) - vote with [our pizza app](https://ilovepizza.ch).
 4. Talk by Yasin Gündüz - How to inject Rust into peoples' hearts, minds and production code. 
