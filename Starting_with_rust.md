@@ -57,6 +57,7 @@ cargo build --release
 ```Dockerfile
 
 # Build stage
+# Also checkout cargo chef
 FROM rust:1.85-slim as builder
 
 # Create a new empty shell project
